@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    container_name: amocrm-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    # volumes больше не нужны, логи будут в stdout

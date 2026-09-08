@@ -1,0 +1,13 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+bot_database.db
+bot.log
+*.md
+Dockerfile
+.dockerignore
+data
