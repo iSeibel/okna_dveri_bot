@@ -1,0 +1,776 @@
+2026-09-07 10:00:37,251 - root - INFO - Бот запущен
+2026-09-07 10:00:37,251 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:00:37,586 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:00:41,785 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:00:41,785 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:00:42,870 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:00:42,871 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:00:42,871 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:00:45,828 - root - INFO - Бот запущен
+2026-09-07 10:00:45,828 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:00:46,182 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:00:51,714 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:00:51,714 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:00:56,429 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:00:56,429 - aiogram.dispatcher - WARNING - Sleep for 1.351786 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:01:02,060 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:01:02,061 - aiogram.dispatcher - WARNING - Sleep for 1.636562 seconds and try again... (tryings = 2, bot id = 8948808488)
+2026-09-07 10:01:08,504 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:01:08,504 - aiogram.dispatcher - WARNING - Sleep for 1.964947 seconds and try again... (tryings = 3, bot id = 8948808488)
+2026-09-07 10:01:16,183 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:01:16,183 - aiogram.dispatcher - WARNING - Sleep for 2.458315 seconds and try again... (tryings = 4, bot id = 8948808488)
+2026-09-07 10:01:21,929 - aiogram.dispatcher - INFO - Connection established (tryings = 5, bot id = 8948808488)
+2026-09-07 10:01:21,932 - aiogram.event - INFO - Update id=766314703 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:01:25,303 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:01:25,303 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:01:27,356 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:01:27,667 - aiogram.event - INFO - Update id=766314704 is handled. Duration 310 ms by bot id=8948808488
+2026-09-07 10:01:34,727 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:01:34,727 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:01:41,988 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:01:42,505 - aiogram.event - INFO - Update id=766314705 is handled. Duration 516 ms by bot id=8948808488
+2026-09-07 10:01:46,817 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:01:46,817 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:01:57,962 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:02:02,673 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:02:02,674 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:02:13,834 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:02:24,179 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:02:24,179 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:02:35,338 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:02:54,291 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:02:54,292 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:03:05,445 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:03:29,005 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:03:29,005 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:03:40,056 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:04:03,411 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:04:03,411 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:04:10,932 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:04:10,933 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:04:10,933 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:04:13,938 - root - INFO - Бот запущен
+2026-09-07 10:04:13,939 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:04:14,307 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:04:22,863 - aiogram.event - INFO - Update id=766314706 is handled. Duration 302 ms by bot id=8948808488
+2026-09-07 10:04:27,574 - aiogram.event - INFO - Update id=766314707 is handled. Duration 1029 ms by bot id=8948808488
+2026-09-07 10:04:34,449 - aiogram.event - INFO - Update id=766314708 is handled. Duration 303 ms by bot id=8948808488
+2026-09-07 10:04:38,116 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:04:38,116 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:04:39,857 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:04:40,064 - aiogram.event - INFO - Update id=766314709 is handled. Duration 205 ms by bot id=8948808488
+2026-09-07 10:04:48,658 - aiogram.event - INFO - Update id=766314710 is handled. Duration 89 ms by bot id=8948808488
+2026-09-07 10:04:53,481 - aiogram.event - INFO - Update id=766314711 is handled. Duration 1163 ms by bot id=8948808488
+2026-09-07 10:05:12,626 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:05:12,626 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:05:23,786 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:05:47,040 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:05:47,040 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:05:58,094 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:06:21,392 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:06:21,392 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:06:32,498 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:06:55,944 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:06:55,944 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:07:07,084 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:07:27,253 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:07:27,253 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:07:27,253 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:10:02,246 - root - INFO - Старая таблица currency_rates удалена
+2026-09-07 10:10:02,249 - root - INFO - Создана новая таблица currency_rates
+2026-09-07 10:10:02,256 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:10:03,459 - root - INFO - Найдено таблиц: 24
+2026-09-07 10:10:03,461 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,475 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,475 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,475 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,476 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,476 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,476 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,476 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,477 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,479 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,480 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,480 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,480 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,481 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,481 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,482 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,482 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,483 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,483 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,483 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,484 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,485 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,485 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:03,485 - root - INFO - USD: найдено 1080 банков
+2026-09-07 10:10:03,491 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:10:03,492 - root - INFO - Начальные курсы загружены
+2026-09-07 10:10:03,492 - root - INFO - Бот запущен
+2026-09-07 10:10:03,492 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:10:03,855 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:10:06,572 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:10:06,573 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:10:06,573 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:10:08,968 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:10:10,095 - root - INFO - Найдено таблиц: 24
+2026-09-07 10:10:10,097 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,110 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,110 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,110 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,111 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,111 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,111 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,112 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,113 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,114 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,115 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,115 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,115 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,116 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,116 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,117 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,117 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,118 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,118 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,118 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,119 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,120 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,120 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:10:10,120 - root - INFO - USD: найдено 1080 банков
+2026-09-07 10:10:10,159 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:10:10,160 - root - INFO - Начальные курсы загружены
+2026-09-07 10:10:10,160 - root - INFO - Бот запущен
+2026-09-07 10:10:10,160 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:10:10,511 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:10:15,221 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:15,221 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:10:21,666 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:21,667 - aiogram.dispatcher - WARNING - Sleep for 1.215905 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:10:27,099 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:27,099 - aiogram.dispatcher - WARNING - Sleep for 1.505008 seconds and try again... (tryings = 2, bot id = 8948808488)
+2026-09-07 10:10:33,341 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:33,341 - aiogram.dispatcher - WARNING - Sleep for 2.045861 seconds and try again... (tryings = 3, bot id = 8948808488)
+2026-09-07 10:10:39,689 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:39,689 - aiogram.dispatcher - WARNING - Sleep for 2.528836 seconds and try again... (tryings = 4, bot id = 8948808488)
+2026-09-07 10:10:46,936 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:46,936 - aiogram.dispatcher - WARNING - Sleep for 3.236339 seconds and try again... (tryings = 5, bot id = 8948808488)
+2026-09-07 10:10:51,262 - aiogram.dispatcher - INFO - Connection established (tryings = 6, bot id = 8948808488)
+2026-09-07 10:10:51,573 - aiogram.event - INFO - Update id=766314715 is handled. Duration 311 ms by bot id=8948808488
+2026-09-07 10:10:54,741 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:54,741 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:10:59,969 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:10:59,969 - aiogram.dispatcher - WARNING - Sleep for 1.350804 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:11:06,109 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:06,109 - aiogram.dispatcher - WARNING - Sleep for 1.728325 seconds and try again... (tryings = 2, bot id = 8948808488)
+2026-09-07 10:11:12,048 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:12,048 - aiogram.dispatcher - WARNING - Sleep for 2.224375 seconds and try again... (tryings = 3, bot id = 8948808488)
+2026-09-07 10:11:18,499 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:18,500 - aiogram.dispatcher - WARNING - Sleep for 2.829796 seconds and try again... (tryings = 4, bot id = 8948808488)
+2026-09-07 10:11:22,092 - aiogram.dispatcher - INFO - Connection established (tryings = 5, bot id = 8948808488)
+2026-09-07 10:11:22,289 - aiogram.event - INFO - Update id=766314719 is handled. Duration 196 ms by bot id=8948808488
+2026-09-07 10:11:26,080 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:26,080 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:11:32,528 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:32,529 - aiogram.dispatcher - WARNING - Sleep for 1.254494 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:11:33,921 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8948808488)
+2026-09-07 10:11:34,174 - aiogram.event - INFO - Update id=766314722 is handled. Duration 252 ms by bot id=8948808488
+2026-09-07 10:11:37,955 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:37,955 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:11:43,178 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:43,180 - aiogram.dispatcher - WARNING - Sleep for 1.184188 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:11:48,605 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:48,605 - aiogram.dispatcher - WARNING - Sleep for 1.567340 seconds and try again... (tryings = 2, bot id = 8948808488)
+2026-09-07 10:11:54,436 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:11:54,436 - aiogram.dispatcher - WARNING - Sleep for 1.987020 seconds and try again... (tryings = 3, bot id = 8948808488)
+2026-09-07 10:12:00,688 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:12:00,688 - aiogram.dispatcher - WARNING - Sleep for 2.673253 seconds and try again... (tryings = 4, bot id = 8948808488)
+2026-09-07 10:12:07,652 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:12:07,652 - aiogram.dispatcher - WARNING - Sleep for 3.402180 seconds and try again... (tryings = 5, bot id = 8948808488)
+2026-09-07 10:12:15,838 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:12:15,839 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:12:15,839 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:12:18,174 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:12:18,901 - root - INFO - Найдено таблиц: 24
+2026-09-07 10:12:18,903 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,916 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,916 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,916 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,917 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,917 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,917 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,917 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,918 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,920 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,921 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,921 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,921 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,922 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,922 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,923 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,923 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,923 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,924 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,924 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,925 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,925 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,925 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:12:18,926 - root - INFO - USD: найдено 1080 банков
+2026-09-07 10:12:18,930 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:12:18,931 - root - INFO - Начальные курсы загружены
+2026-09-07 10:12:18,931 - root - INFO - Бот запущен
+2026-09-07 10:12:18,931 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:12:19,226 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:12:24,779 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:12:24,779 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:12:29,464 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:12:29,464 - aiogram.dispatcher - WARNING - Sleep for 1.273809 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:12:32,959 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8948808488)
+2026-09-07 10:12:33,359 - aiogram.event - INFO - Update id=766314730 is handled. Duration 399 ms by bot id=8948808488
+2026-09-07 10:12:39,301 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:12:39,301 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:12:50,354 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:12:52,406 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:12:52,406 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:13:03,562 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:13:08,290 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:13:08,290 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:13:19,434 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:13:29,881 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:13:29,881 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:13:40,944 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:13:59,986 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:13:59,987 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:14:11,147 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:14:34,393 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:14:34,393 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:14:45,553 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:15:08,800 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:15:08,800 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:15:19,961 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:15:43,208 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:15:43,208 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:15:54,271 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:15:58,189 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:15:58,190 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:15:58,190 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:16:00,488 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:16:01,449 - root - INFO - Найдено таблиц: 24
+2026-09-07 10:16:01,451 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,463 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,464 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,464 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,464 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,464 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,464 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,465 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,466 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,468 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,468 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,468 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,468 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,469 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,469 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,470 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,470 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,471 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,471 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,471 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,472 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,472 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,473 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:01,473 - root - INFO - USD: найдено 1080 банков
+2026-09-07 10:16:01,479 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:16:01,480 - root - INFO - Начальные курсы загружены
+2026-09-07 10:16:01,480 - root - INFO - Бот запущен
+2026-09-07 10:16:01,480 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:16:01,844 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:16:17,614 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:16:17,614 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:16:28,776 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:16:52,021 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:16:52,021 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:16:53,740 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:16:53,740 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:16:53,740 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:16:56,140 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:16:57,156 - root - INFO - Найдено таблиц: 24
+2026-09-07 10:16:57,159 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,172 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,172 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,172 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,173 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,173 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,173 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,174 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,174 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,176 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,177 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,177 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,177 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,178 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,178 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,179 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,179 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,180 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,180 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,180 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,181 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,181 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,182 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:16:57,182 - root - INFO - USD: найдено 1080 банков
+2026-09-07 10:16:57,188 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:16:57,188 - root - INFO - Начальные курсы загружены
+2026-09-07 10:16:57,188 - root - INFO - Бот запущен
+2026-09-07 10:16:57,189 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:16:57,551 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:17:01,649 - aiogram.event - INFO - Update id=766314731 is handled. Duration 304 ms by bot id=8948808488
+2026-09-07 10:17:05,026 - aiogram.event - INFO - Update id=766314732 is handled. Duration 201 ms by bot id=8948808488
+2026-09-07 10:17:07,484 - aiogram.event - INFO - Update id=766314733 is handled. Duration 305 ms by bot id=8948808488
+2026-09-07 10:17:10,249 - aiogram.event - INFO - Update id=766314734 is handled. Duration 306 ms by bot id=8948808488
+2026-09-07 10:17:12,295 - aiogram.event - INFO - Update id=766314735 is handled. Duration 201 ms by bot id=8948808488
+2026-09-07 10:17:16,221 - root - INFO - Найдено таблиц: 24
+2026-09-07 10:17:16,223 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,236 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,236 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,237 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,237 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,237 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,237 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,238 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,239 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,241 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,241 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,242 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,242 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,242 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,243 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,244 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,244 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,245 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,245 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,245 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,246 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,247 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,247 - root - INFO - Обрабатываем таблицу для USD
+2026-09-07 10:17:16,247 - root - INFO - USD: найдено 1080 банков
+2026-09-07 10:17:16,286 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:17:16,498 - aiogram.event - INFO - Update id=766314736 is handled. Duration 1127 ms by bot id=8948808488
+2026-09-07 10:17:18,648 - aiogram.event - INFO - Update id=766314737 is handled. Duration 201 ms by bot id=8948808488
+2026-09-07 10:17:26,529 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:17:26,529 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:17:37,689 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:18:00,935 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:18:00,935 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:18:11,997 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:18:35,337 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:18:35,337 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:18:46,401 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:19:09,853 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:19:09,853 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:19:21,012 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:19:44,334 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:19:44,334 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:19:55,422 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:20:18,874 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:20:18,874 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:20:29,931 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:20:53,446 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:20:53,446 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:21:04,572 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:21:28,097 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:21:28,097 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:21:39,161 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:22:02,432 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:22:02,432 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:22:13,487 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:22:21,007 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:22:21,008 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:22:21,008 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:22:23,615 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:22:23,615 - root - INFO - Получаем начальные курсы...
+2026-09-07 10:22:23,615 - root - INFO - Парсим USD с https://myfin.by/currency/minsk/usd
+2026-09-07 10:22:24,728 - root - INFO - Для USD найдено банков: 497
+2026-09-07 10:22:25,729 - root - INFO - Парсим EUR с https://myfin.by/currency/minsk/eur
+2026-09-07 10:22:26,792 - root - INFO - Для EUR найдено банков: 497
+2026-09-07 10:22:27,793 - root - INFO - Парсим RUB с https://myfin.by/currency/minsk/rub
+2026-09-07 10:22:28,977 - root - INFO - Для RUB найдено банков: 497
+2026-09-07 10:22:29,979 - root - INFO - USD: найдено 497 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:29,980 - root - INFO - EUR: найдено 497 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:29,981 - root - INFO - RUB: найдено 497 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:29,982 - root - INFO - USD: найдено 497 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:29,982 - root - INFO - EUR: найдено 497 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:29,982 - root - INFO - RUB: найдено 497 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:29,986 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:22:29,987 - root - INFO - Начальные курсы загружены
+2026-09-07 10:22:29,987 - root - INFO - Бот запущен
+2026-09-07 10:22:29,987 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:22:30,306 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:22:36,912 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:22:36,912 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:22:37,956 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:22:38,240 - aiogram.event - INFO - Update id=766314738 is handled. Duration 283 ms by bot id=8948808488
+2026-09-07 10:22:42,129 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:22:42,129 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:22:44,690 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:22:45,000 - aiogram.event - INFO - Update id=766314739 is handled. Duration 309 ms by bot id=8948808488
+2026-09-07 10:22:46,951 - root - INFO - USD: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:46,952 - root - INFO - EUR: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:46,952 - root - INFO - RUB: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:47,046 - aiogram.event - INFO - Update id=766314740 is handled. Duration 101 ms by bot id=8948808488
+2026-09-07 10:22:47,966 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:22:47,966 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:22:53,188 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:22:53,188 - aiogram.dispatcher - WARNING - Sleep for 1.200521 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:22:55,134 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8948808488)
+2026-09-07 10:22:55,136 - root - INFO - USD: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:55,136 - root - INFO - EUR: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:55,136 - root - INFO - RUB: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:22:55,546 - aiogram.event - INFO - Update id=766314742 is handled. Duration 411 ms by bot id=8948808488
+2026-09-07 10:22:59,130 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:22:59,130 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:23:02,405 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:23:02,407 - root - INFO - USD: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:23:02,407 - root - INFO - EUR: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:23:02,407 - root - INFO - RUB: найдено 10 банков, лучший: Минск ул. Налибокская 36 (ТЦ Квадро)1020
+2026-09-07 10:23:02,609 - aiogram.event - INFO - Update id=766314744 is handled. Duration 203 ms by bot id=8948808488
+2026-09-07 10:23:04,285 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:23:04,285 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:23:10,084 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:23:10,084 - aiogram.dispatcher - WARNING - Sleep for 1.132238 seconds and try again... (tryings = 1, bot id = 8948808488)
+2026-09-07 10:23:16,738 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:23:16,739 - aiogram.dispatcher - WARNING - Sleep for 1.281982 seconds and try again... (tryings = 2, bot id = 8948808488)
+2026-09-07 10:23:24,728 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:23:24,728 - aiogram.dispatcher - WARNING - Sleep for 1.679287 seconds and try again... (tryings = 3, bot id = 8948808488)
+2026-09-07 10:23:35,071 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:23:35,071 - aiogram.dispatcher - WARNING - Sleep for 2.152969 seconds and try again... (tryings = 4, bot id = 8948808488)
+2026-09-07 10:23:47,462 - aiogram.dispatcher - INFO - Connection established (tryings = 5, bot id = 8948808488)
+2026-09-07 10:23:48,384 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:23:48,384 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:23:59,543 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:24:04,319 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:24:04,319 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:24:15,518 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:24:25,861 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:24:25,861 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:24:37,025 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:24:56,076 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:24:56,076 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:25:07,236 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:25:30,578 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:25:30,578 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:25:41,738 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:26:05,188 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:26:05,188 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:26:16,311 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:26:39,591 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:26:39,591 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:26:50,751 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:27:14,203 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:27:14,204 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:27:25,360 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:27:48,707 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:27:48,707 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:27:59,868 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:28:23,347 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:28:23,347 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:28:34,479 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:28:57,823 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:28:57,824 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:29:08,988 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:29:32,436 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:29:32,437 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:29:43,593 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:30:07,148 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:30:07,148 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:30:18,334 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:30:41,653 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:30:41,653 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:30:52,814 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:31:16,138 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:31:16,138 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:31:27,418 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:31:50,976 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:31:50,976 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:32:02,136 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:32:25,790 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:32:25,791 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:32:36,955 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:33:00,708 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:33:00,708 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:33:11,868 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:33:35,615 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:33:35,615 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:33:46,888 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:34:10,337 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:34:10,337 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:34:21,462 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:34:44,931 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:34:44,932 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:34:56,110 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:35:19,459 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:35:19,460 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:35:30,607 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:35:53,990 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:35:53,990 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:36:05,124 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:36:28,577 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:36:28,577 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:36:39,735 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:37:02,981 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:37:02,981 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:37:14,141 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:37:37,388 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:37:37,388 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:37:48,444 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:38:11,895 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:38:11,895 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:38:23,056 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:38:46,403 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:38:46,404 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:38:57,462 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:39:20,915 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:39:20,916 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:39:32,078 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:39:55,274 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:39:55,274 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:40:06,378 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:40:29,723 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:40:29,723 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:40:40,782 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:41:04,645 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:41:04,645 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:41:15,803 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:41:18,788 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:41:18,789 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:41:18,789 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:41:21,382 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:41:21,383 - root - INFO - Получаем начальные курсы...
+2026-09-07 10:41:21,383 - root - WARNING - Не удалось получить начальные курсы
+2026-09-07 10:41:21,383 - root - INFO - Бот запущен
+2026-09-07 10:41:21,383 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:41:21,743 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:41:30,961 - aiogram.event - INFO - Update id=766314745 is handled. Duration 300 ms by bot id=8948808488
+2026-09-07 10:41:36,180 - aiogram.event - INFO - Update id=766314746 is handled. Duration 201 ms by bot id=8948808488
+2026-09-07 10:41:39,153 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:41:39,153 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:41:44,084 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:41:44,224 - aiogram.event - INFO - Update id=766314747 is handled. Duration 139 ms by bot id=8948808488
+2026-09-07 10:41:57,076 - root - WARNING - Не настроен токен AmoCRM. Пропускаем создание сделки.
+2026-09-07 10:41:57,181 - root - INFO - Создана заявка на звонок: Олег, +375294545455, user_id: 8975877699
+2026-09-07 10:41:57,181 - aiogram.event - INFO - Update id=766314748 is handled. Duration 111 ms by bot id=8948808488
+2026-09-07 10:42:05,261 - aiogram.event - INFO - Update id=766314749 is handled. Duration 100 ms by bot id=8948808488
+2026-09-07 10:42:13,661 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:42:13,661 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:42:24,820 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:42:48,166 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:42:48,167 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:42:59,327 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:43:22,642 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:43:22,642 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:43:34,144 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:43:57,389 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:43:57,389 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:44:04,661 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:44:04,865 - aiogram.event - INFO - Update id=766314750 is handled. Duration 204 ms by bot id=8948808488
+2026-09-07 10:44:23,193 - aiogram.event - INFO - Update id=766314751 is handled. Duration 100 ms by bot id=8948808488
+2026-09-07 10:44:31,897 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:44:31,897 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:44:39,885 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:44:40,096 - aiogram.event - INFO - Update id=766314752 is handled. Duration 209 ms by bot id=8948808488
+2026-09-07 10:44:43,574 - aiogram.event - INFO - Update id=766314753 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:44:57,601 - aiogram.event - INFO - Update id=766314754 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:45:00,365 - aiogram.event - INFO - Update id=766314755 is handled. Duration 100 ms by bot id=8948808488
+2026-09-07 10:45:04,390 - aiogram.event - INFO - Update id=766314756 is handled. Duration 133 ms by bot id=8948808488
+2026-09-07 10:45:06,316 - aiogram.event - INFO - Update id=766314757 is handled. Duration 7 ms by bot id=8948808488
+2026-09-07 10:45:06,364 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:45:06,364 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:45:17,567 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:45:41,327 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:45:41,327 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:45:49,411 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:45:49,411 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:45:49,411 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:45:51,643 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:45:51,643 - root - INFO - Получаем начальные курсы...
+2026-09-07 10:45:51,643 - root - WARNING - Не удалось получить начальные курсы
+2026-09-07 10:45:51,643 - root - INFO - Бот запущен
+2026-09-07 10:45:51,644 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:45:51,975 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:45:57,714 - aiogram.event - INFO - Update id=766314758 is handled. Duration 418 ms by bot id=8948808488
+2026-09-07 10:45:59,564 - aiogram.event - INFO - Update id=766314759 is handled. Duration 6 ms by bot id=8948808488
+2026-09-07 10:46:03,136 - aiogram.event - INFO - Update id=766314760 is handled. Duration 200 ms by bot id=8948808488
+2026-09-07 10:46:05,940 - aiogram.event - INFO - Update id=766314761 is handled. Duration 39 ms by bot id=8948808488
+2026-09-07 10:46:07,438 - aiogram.event - INFO - Update id=766314762 is handled. Duration 204 ms by bot id=8948808488
+2026-09-07 10:46:09,794 - aiogram.event - INFO - Update id=766314763 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:46:15,735 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:46:15,735 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:46:17,166 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:46:17,167 - aiogram.event - INFO - Update id=766314764 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:46:20,649 - aiogram.event - INFO - Update id=766314765 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:46:21,776 - aiogram.event - INFO - Update id=766314766 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:46:35,909 - aiogram.event - INFO - Update id=766314767 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:46:45,948 - aiogram.event - INFO - Update id=766314768 is handled. Duration 213 ms by bot id=8948808488
+2026-09-07 10:46:50,138 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-09-07 10:46:50,138 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8948808488)
+2026-09-07 10:46:52,800 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8948808488)
+2026-09-07 10:46:52,807 - aiogram.event - INFO - Update id=766314769 is handled. Duration 6 ms by bot id=8948808488
+2026-09-07 10:47:18,600 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:47:18,600 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:47:18,600 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:47:20,994 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:47:20,995 - root - INFO - Получаем начальные курсы...
+2026-09-07 10:47:20,995 - root - WARNING - Не удалось получить начальные курсы
+2026-09-07 10:47:20,995 - root - INFO - Бот запущен
+2026-09-07 10:47:20,995 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:47:21,516 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:47:25,204 - aiogram.event - INFO - Update id=766314770 is handled. Duration 38 ms by bot id=8948808488
+2026-09-07 10:47:26,700 - aiogram.event - INFO - Update id=766314771 is handled. Duration 6 ms by bot id=8948808488
+2026-09-07 10:47:29,052 - aiogram.event - INFO - Update id=766314772 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:47:34,584 - aiogram.event - INFO - Update id=766314773 is handled. Duration 310 ms by bot id=8948808488
+2026-09-07 10:47:41,968 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:47:41,969 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:47:41,969 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:47:44,221 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:47:44,222 - root - INFO - Получаем начальные курсы...
+2026-09-07 10:47:44,222 - root - WARNING - Не удалось получить начальные курсы
+2026-09-07 10:47:44,222 - root - INFO - Бот запущен
+2026-09-07 10:47:44,222 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:47:44,605 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:47:59,981 - aiogram.event - INFO - Update id=766314774 is handled. Duration 6 ms by bot id=8948808488
+2026-09-07 10:50:32,240 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 10:50:32,240 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:50:32,240 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 10:50:34,621 - root - INFO - База данных успешно инициализирована
+2026-09-07 10:50:34,621 - root - INFO - Получаем начальные курсы...
+2026-09-07 10:50:34,621 - root - INFO - Парсим USD с https://myfin.by/currency/minsk/usd
+2026-09-07 10:50:35,638 - root - INFO - Для USD найдено банков: 502
+2026-09-07 10:50:36,639 - root - INFO - Парсим EUR с https://myfin.by/currency/minsk/eur
+2026-09-07 10:50:37,741 - root - INFO - Для EUR найдено банков: 502
+2026-09-07 10:50:38,743 - root - INFO - Парсим RUB с https://myfin.by/currency/minsk/rub
+2026-09-07 10:50:39,864 - root - INFO - Для RUB найдено банков: 502
+2026-09-07 10:50:40,866 - root - INFO - USD: найдено 502 банков
+2026-09-07 10:50:40,866 - root - INFO - EUR: найдено 502 банков
+2026-09-07 10:50:40,886 - root - INFO - RUB: найдено 502 банков
+2026-09-07 10:50:40,887 - root - INFO - USD: найдено 502 банков
+2026-09-07 10:50:40,887 - root - INFO - EUR: найдено 502 банков
+2026-09-07 10:50:40,887 - root - INFO - RUB: найдено 502 банков
+2026-09-07 10:50:40,903 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 10:50:40,903 - root - INFO - Начальные курсы загружены
+2026-09-07 10:50:40,903 - root - INFO - Бот запущен
+2026-09-07 10:50:40,904 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 10:50:41,259 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 10:50:48,833 - aiogram.event - INFO - Update id=766314775 is handled. Duration 405 ms by bot id=8948808488
+2026-09-07 10:50:50,791 - root - INFO - USD: найдено 10 банков
+2026-09-07 10:50:50,791 - root - INFO - EUR: найдено 10 банков
+2026-09-07 10:50:50,791 - root - INFO - RUB: найдено 10 банков
+2026-09-07 10:50:50,883 - aiogram.event - INFO - Update id=766314776 is handled. Duration 99 ms by bot id=8948808488
+2026-09-07 10:50:53,445 - root - INFO - USD: найдено 10 банков
+2026-09-07 10:50:53,445 - root - INFO - EUR: найдено 10 банков
+2026-09-07 10:50:53,445 - root - INFO - RUB: найдено 10 банков
+2026-09-07 10:50:53,852 - aiogram.event - INFO - Update id=766314777 is handled. Duration 408 ms by bot id=8948808488
+2026-09-07 10:50:57,641 - root - INFO - USD: найдено 10 банков
+2026-09-07 10:50:57,642 - root - INFO - EUR: найдено 10 банков
+2026-09-07 10:50:57,642 - root - INFO - RUB: найдено 10 банков
+2026-09-07 10:50:57,848 - aiogram.event - INFO - Update id=766314778 is handled. Duration 207 ms by bot id=8948808488
+2026-09-07 10:51:01,627 - aiogram.event - INFO - Update id=766314779 is handled. Duration 96 ms by bot id=8948808488
+2026-09-07 10:51:03,169 - aiogram.event - INFO - Update id=766314780 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:51:11,665 - aiogram.event - INFO - Update id=766314781 is not handled. Duration 0 ms by bot id=8948808488
+2026-09-07 10:51:14,441 - root - INFO - USD: найдено 10 банков
+2026-09-07 10:51:14,441 - root - INFO - EUR: найдено 10 банков
+2026-09-07 10:51:14,441 - root - INFO - RUB: найдено 10 банков
+2026-09-07 10:51:14,540 - aiogram.event - INFO - Update id=766314782 is handled. Duration 106 ms by bot id=8948808488
+2026-09-07 10:51:16,387 - root - INFO - USD: найдено 10 банков
+2026-09-07 10:51:16,387 - root - INFO - EUR: найдено 10 банков
+2026-09-07 10:51:16,387 - root - INFO - RUB: найдено 10 банков
+2026-09-07 10:51:16,585 - aiogram.event - INFO - Update id=766314783 is handled. Duration 199 ms by bot id=8948808488
+2026-09-07 10:51:22,649 - aiogram.event - INFO - Update id=766314784 is handled. Duration 330 ms by bot id=8948808488
+2026-09-07 10:51:24,770 - root - INFO - Парсим EUR в городе gomel с https://myfin.by/currency/gomel/eur
+2026-09-07 10:51:25,133 - root - INFO - Для EUR в gomel найдено банков: 108
+2026-09-07 10:51:25,390 - aiogram.event - INFO - Update id=766314785 is handled. Duration 716 ms by bot id=8948808488
+2026-09-07 10:51:35,563 - root - INFO - USD: найдено 10 банков
+2026-09-07 10:51:35,563 - root - INFO - EUR: найдено 10 банков
+2026-09-07 10:51:35,563 - root - INFO - RUB: найдено 10 банков
+2026-09-07 10:51:35,932 - aiogram.event - INFO - Update id=766314786 is handled. Duration 408 ms by bot id=8948808488
+2026-09-07 10:51:41,566 - root - INFO - USD: найдено 10 банков
+2026-09-07 10:51:41,566 - root - INFO - EUR: найдено 10 банков
+2026-09-07 10:51:41,567 - root - INFO - RUB: найдено 10 банков
+2026-09-07 10:51:41,773 - aiogram.event - INFO - Update id=766314787 is handled. Duration 208 ms by bot id=8948808488
+2026-09-07 10:51:43,616 - aiogram.event - INFO - Update id=766314788 is handled. Duration 202 ms by bot id=8948808488
+2026-09-07 10:51:45,159 - root - INFO - Парсим USD в городе grodno с https://myfin.by/currency/grodno/usd
+2026-09-07 10:51:45,942 - root - INFO - Для USD в grodno найдено банков: 84
+2026-09-07 10:51:46,177 - aiogram.event - INFO - Update id=766314789 is handled. Duration 1125 ms by bot id=8948808488
+2026-09-07 10:51:51,196 - aiogram.event - INFO - Update id=766314790 is handled. Duration 98 ms by bot id=8948808488
+2026-09-07 11:01:01,088 - aiogram.event - INFO - Update id=766314791 is handled. Duration 208 ms by bot id=8948808488
+2026-09-07 11:05:35,804 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 11:05:35,805 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 11:05:35,805 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 11:05:38,089 - root - INFO - База данных успешно инициализирована
+2026-09-07 11:05:38,089 - root - INFO - Получаем начальные курсы...
+2026-09-07 11:05:38,089 - root - INFO - Парсим USD с https://myfin.by/currency/minsk/usd
+2026-09-07 11:05:38,888 - root - INFO - Для USD найдено банков: 500
+2026-09-07 11:05:39,889 - root - INFO - Парсим EUR с https://myfin.by/currency/minsk/eur
+2026-09-07 11:05:40,970 - root - INFO - Для EUR найдено банков: 500
+2026-09-07 11:05:41,971 - root - INFO - Парсим RUB с https://myfin.by/currency/minsk/rub
+2026-09-07 11:05:42,846 - root - INFO - Для RUB найдено банков: 500
+2026-09-07 11:05:43,848 - root - INFO - USD: найдено 500 банков
+2026-09-07 11:05:43,849 - root - INFO - EUR: найдено 500 банков
+2026-09-07 11:05:43,850 - root - INFO - RUB: найдено 500 банков
+2026-09-07 11:05:43,850 - root - INFO - USD: найдено 500 банков
+2026-09-07 11:05:43,850 - root - INFO - EUR: найдено 500 банков
+2026-09-07 11:05:43,851 - root - INFO - RUB: найдено 500 банков
+2026-09-07 11:05:43,858 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 11:05:43,858 - root - INFO - Начальные курсы загружены
+2026-09-07 11:05:43,858 - root - INFO - Бот запущен
+2026-09-07 11:05:43,858 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 11:05:44,225 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 11:09:13,708 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 11:09:13,708 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 11:09:13,708 - aiogram.dispatcher - INFO - Polling stopped
+2026-09-07 11:09:16,052 - root - INFO - База данных успешно инициализирована
+2026-09-07 11:09:16,052 - root - INFO - Получаем начальные курсы...
+2026-09-07 11:09:16,052 - root - INFO - Парсим USD с https://myfin.by/currency/minsk/usd
+2026-09-07 11:09:17,001 - root - INFO - Для USD найдено банков: 502
+2026-09-07 11:09:18,002 - root - INFO - Парсим EUR с https://myfin.by/currency/minsk/eur
+2026-09-07 11:09:18,763 - root - INFO - Для EUR найдено банков: 502
+2026-09-07 11:09:19,765 - root - INFO - Парсим RUB с https://myfin.by/currency/minsk/rub
+2026-09-07 11:09:20,657 - root - INFO - Для RUB найдено банков: 502
+2026-09-07 11:09:21,660 - root - INFO - USD: найдено 502 банков
+2026-09-07 11:09:21,660 - root - INFO - EUR: найдено 502 банков
+2026-09-07 11:09:21,660 - root - INFO - RUB: найдено 502 банков
+2026-09-07 11:09:21,661 - root - INFO - USD: найдено 502 банков
+2026-09-07 11:09:21,661 - root - INFO - EUR: найдено 502 банков
+2026-09-07 11:09:21,661 - root - INFO - RUB: найдено 502 банков
+2026-09-07 11:09:21,667 - root - INFO - Курсы валют сохранены в БД
+2026-09-07 11:09:21,668 - root - INFO - Начальные курсы загружены
+2026-09-07 11:09:21,668 - root - INFO - Бот запущен
+2026-09-07 11:09:21,668 - aiogram.dispatcher - INFO - Start polling
+2026-09-07 11:09:22,239 - aiogram.dispatcher - INFO - Run polling for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 11:09:30,744 - aiogram.event - INFO - Update id=766314792 is handled. Duration 306 ms by bot id=8948808488
+2026-09-07 11:09:34,984 - root - INFO - USD: найдено 10 банков
+2026-09-07 11:09:34,984 - root - INFO - EUR: найдено 10 банков
+2026-09-07 11:09:34,984 - root - INFO - RUB: найдено 10 банков
+2026-09-07 11:09:35,141 - aiogram.event - INFO - Update id=766314793 is handled. Duration 197 ms by bot id=8948808488
+2026-09-07 11:09:36,887 - root - INFO - USD: найдено 10 банков
+2026-09-07 11:09:36,887 - root - INFO - EUR: найдено 10 банков
+2026-09-07 11:09:36,887 - root - INFO - RUB: найдено 10 банков
+2026-09-07 11:09:37,192 - aiogram.event - INFO - Update id=766314794 is handled. Duration 306 ms by bot id=8948808488
+2026-09-07 11:09:39,235 - aiogram.event - INFO - Update id=766314795 is handled. Duration 202 ms by bot id=8948808488
+2026-09-07 11:09:40,673 - root - INFO - Парсим USD в городе gomel с https://myfin.by/currency/gomel/usd
+2026-09-07 11:09:41,122 - root - INFO - Для USD в gomel найдено банков: 108
+2026-09-07 11:09:41,389 - aiogram.event - INFO - Update id=766314796 is handled. Duration 814 ms by bot id=8948808488
+2026-09-07 11:09:44,255 - aiogram.event - INFO - Update id=766314797 is handled. Duration 198 ms by bot id=8948808488
+2026-09-07 11:09:48,147 - aiogram.event - INFO - Update id=766314798 is handled. Duration 307 ms by bot id=8948808488
+2026-09-07 11:09:49,778 - aiogram.event - INFO - Update id=766314799 is handled. Duration 95 ms by bot id=8948808488
+2026-09-07 11:10:01,254 - aiogram.event - INFO - Update id=766314800 is handled. Duration 99 ms by bot id=8948808488
+2026-09-07 11:10:11,290 - aiogram.event - INFO - Update id=766314801 is handled. Duration 102 ms by bot id=8948808488
+2026-09-07 11:10:23,269 - aiogram.event - INFO - Update id=766314802 is handled. Duration 102 ms by bot id=8948808488
+2026-09-07 11:10:43,550 - root - ERROR - Ошибка при работе с AmoCRM: Cannot connect to host your_domain.amocrm.ru:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'your_domain.amocrm.ru'. (_ssl.c:1000)")]
+2026-09-07 11:10:43,653 - root - INFO - Создана заявка на звонок: Андрей, +375291451111, user_id: 8975877699
+2026-09-07 11:10:43,653 - aiogram.event - INFO - Update id=766314803 is handled. Duration 719 ms by bot id=8948808488
+2026-09-07 11:11:23,901 - aiogram.event - INFO - Update id=766314804 is handled. Duration 212 ms by bot id=8948808488
+2026-09-07 11:25:01,417 - aiogram.event - INFO - Update id=766314805 is handled. Duration 140 ms by bot id=8948808488
+2026-09-07 11:25:16,724 - aiogram.event - INFO - Update id=766314806 is handled. Duration 100 ms by bot id=8948808488
+2026-09-07 11:34:03,704 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-09-07 11:34:03,704 - aiogram.dispatcher - INFO - Polling stopped for bot @gedvil_consultation_bot id=8948808488 - 'Ваш консультант'
+2026-09-07 11:34:03,705 - aiogram.dispatcher - INFO - Polling stopped
